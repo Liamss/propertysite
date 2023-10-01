@@ -1,0 +1,47 @@
+
+body {
+    background-color: #cfe2f3;
+}
+
+/* Top Nav */
+
+.topnav {
+    overflow: hidden;
+    width: auto;
+    height: 280px;
+    padding: 40px;
+}
+
+/* The links inside TopNav */
+.topnav a {
+    float: inherit;
+    text-align: center;
+    color: #3f3c3ccb;
+    font size: 28px;
+}
+
+
+/* The Header */
+
+.header {
+    width: 1000 auto;
+    height: 100 auto;
+    padding: 160px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #cfe2f3;
+    color: #353232a4;
+}
+
+.header h1 {
+    display: block;
+    font-size: 48px;
+    text-align: center;
+    color: #3f3c3ccb;
+}
+
+.header h2 {
+    display: block;
+    font-size: 36px;
+    text-align: center;
+    color: #3f3c3ccb;
+}
